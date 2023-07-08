@@ -1,0 +1,26 @@
+body {
+    background-color: #333232;
+}
+#container {
+    background-color: #0E2431;
+    border: 5px solid #F5E4C3;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: 'Fasthand', cursive;
+    font-size: 30px;
+}
+
+#userInput {
+    width: 100px;
+    margin: 25px auto;
+}
+#btn {
+    margin: 25px auto auto 5px;
+    border-radius: 5px;
+}
